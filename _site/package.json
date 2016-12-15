@@ -1,0 +1,19 @@
+{
+  "name": "starshaft.github.io",
+  "version": "1.0.0",
+  "description": "My github page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/starshaft/starshaft.github.io.git"
+  },
+  "author": "Christian Mark Bituin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/starshaft/starshaft.github.io/issues"
+  },
+  "homepage": "https://github.com/starshaft/starshaft.github.io#readme"
+}
