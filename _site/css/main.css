@@ -1,4 +1,12 @@
 @charset "UTF-8";
+footer {
+  text-align: center;
+  color: #ccc;
+  font-size: 30px; }
+
+.social-media a {
+  margin-left: 15px; }
+
 /*
 * Skeleton V2.0.4
 * Copyright 2014, Dave Gamache
@@ -508,4 +516,13 @@ a:hover {
 p {
   font-family: 'Roboto Slab',serif;
   color: #535d5e;
-  font-size: 16px; }
+  font-size: 16px;
+  line-height: 200%; }
+
+.contact-info {
+  color: #69CFE8;
+  text-decoration: bolder; }
+
+h1 {
+  text-align: center;
+  text-decoration: bold; }
