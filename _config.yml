@@ -8,8 +8,6 @@
 # Site settings
 title: Christian Mark Bituin
 email: bituin.chrismark@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
- My beloved github page
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://starshaft.github.io" # the base hostname & protocol for your site
 twitter_username: bituin.chrismark
